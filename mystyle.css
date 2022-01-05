@@ -1,0 +1,131 @@
+body{
+    background-color: #004643;
+}
+
+.nav-link{
+    color: #fffffe;
+    font-size: 1.2em;
+    /*font-family: 'Roboto', sans-serif;*/
+    font-family: Baskerville, "Baskerville Old Face", "Goudy Old Style", Garamond, "Times New Roman", serif;
+    
+}
+
+.nav-link:hover{
+    color:#cfc9cc;
+}
+
+.main{
+    margin-left: 80px;
+    margin-top: 0px;
+    display:grid;
+    grid-template-columns: 2fr 3fr;
+}
+
+.entry{
+    display:grid;
+}
+
+h1{
+    font-size: 6em;
+    margin-top: 80px;
+    font-family: Baskerville, "Baskerville Old Face", "Goudy Old Style", Garamond, "Times New Roman", serif;
+    color:#fffffe
+}
+
+h2{
+    font-size: 2em;
+    margin-left: 200px;
+    margin-bottom: 30px;
+    font-family: Baskerville, "Baskerville Old Face", "Goudy Old Style", Garamond, "Times New Roman", serif;
+    color:#fffffe
+
+}
+
+.about{
+    margin-top: 0px;
+    margin-left: 620px;
+    font-size: .5em;
+}
+
+.form-label{
+    font-size: 1.3em;
+    font-weight: bold;
+    font-family: Baskerville, "Baskerville Old Face", "Goudy Old Style", Garamond, "Times New Roman", serif;
+    color: #abd1c6
+}
+
+
+.mb-3{
+    margin-left:400px;
+    margin-right:400px;
+}
+p{
+    margin-left: 200px;
+    font-size: 1.2em;
+    font-family: Baskerville, "Baskerville Old Face", "Goudy Old Style", Garamond, "Times New Roman", serif;
+    color: #abd1c6
+    
+}
+
+.aboutme{
+    margin-right: 100px;
+    margin-bottom: 100px;
+    font-size: 1.2em;
+    font-family: Baskerville, "Baskerville Old Face", "Goudy Old Style", Garamond, "Times New Roman", serif;
+    color: #abd1c6
+}
+
+.pic{
+    margin-left: 50px;
+}
+
+.pic2{
+    margin-right: 200px;
+}
+
+.bold{
+    margin-left: 200px;
+    font-size: 1.3em;
+    font-weight: bold;
+    font-family: Baskerville, "Baskerville Old Face", "Goudy Old Style", Garamond, "Times New Roman", serif;
+    color: #abd1c6
+}
+
+a{
+    text-decoration: none;
+    color: #abd1c6;
+}
+
+a:hover{
+    color: #fffffe;
+}
+.resume{
+    margin-left: 180px;
+    font-size: 1.2em;
+    font-family: Baskerville, "Baskerville Old Face", "Goudy Old Style", Garamond, "Times New Roman", serif;
+    color: #abd1c6
+}
+.btn {
+    margin-bottom: 200px;
+    margin-left: 125px;
+    background-color: #f9bc60;
+    font-weight:bold;
+    font-family: Baskerville, "Baskerville Old Face", "Goudy Old Style", Garamond, "Times New Roman", serif;
+    border-color:#f9bc60;
+    width: 200px;
+    height: 80px;
+    color: #001e1d;
+}
+.btn-submit{
+    margin-left:205px;
+}
+
+.btn:hover{
+    background-color: #f0a636;
+    border-color: #f0a636;
+    color: #001e1d;
+}
+
+ul{
+    margin: 40px;
+}
